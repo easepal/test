@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.easepal.Charge</string>
+				<string>com.shiningtrip.wochacha4</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>9.4.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
